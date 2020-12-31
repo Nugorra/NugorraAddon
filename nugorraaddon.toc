@@ -1,6 +1,7 @@
 ## Interface: 90002
 ## Title: Nugorras Base AddOn
 ## Author: Nugorra
-## Version: 0.0.7
+## Version: 0.0.8
 
-main.lua
+HelloWorld.lua
+HelloWorld.xml
