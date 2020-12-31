@@ -1,4 +1,4 @@
 ## Interface: 900020
 ## Title: Nugorras Base AddOn
 ## Author: Nugorra
-## Version: 0.0.4
+## Version: 0.0.5
